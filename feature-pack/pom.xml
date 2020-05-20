@@ -220,12 +220,22 @@
 
         <dependency>
             <groupId>com.github.fge</groupId>
-            <artifactId>json-patch</artifactId>
+            <artifactId>btf</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.github.fge</groupId>
+            <artifactId>msg-simple</artifactId>
         </dependency>
 
         <dependency>
             <groupId>com.github.fge</groupId>
             <artifactId>jackson-coreutils</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.github.fge</groupId>
+            <artifactId>json-patch</artifactId>
         </dependency>
 
         <dependency>
